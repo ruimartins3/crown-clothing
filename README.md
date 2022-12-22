@@ -1,4 +1,4 @@
-# crown-clothing
+<h1 align="center"> crown-clothing</h1>
 <h2 align="center">An E-Commerce Project made with React and some other tools!</h2>
 
 
