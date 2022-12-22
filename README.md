@@ -23,8 +23,13 @@
   
  ---
   
-  <h3 align="center">Buying page</h3>
+  <h3 align="center">Add to the cart</h3>
   
-  ![f1a49e52e7676207ddc308601e61cd8d](https://user-images.githubusercontent.com/91401714/209159284-8d82570d-c84c-4275-87fe-5ea44e61cff3.png)
+  ![Add to the cart](https://user-images.githubusercontent.com/91401714/209159878-fa7bd4ad-0a1e-4e68-b788-8bc8cd6c0ead.png)
 
+ ---
+ 
+ <h3 align="center">Buying page</h3>
+ 
+ ![f1a49e52e7676207ddc308601e61cd8d](https://user-images.githubusercontent.com/91401714/209159997-c841060c-07e7-4030-8b57-6365e4d9490c.png)
 
