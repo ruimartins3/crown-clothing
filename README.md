@@ -1,5 +1,5 @@
 # crown-clothing
-<h2>An E-Commerce Project made with React and some other tools!</h2>
+<h2 align="center">An E-Commerce Project made with React and some other tools!</h2>
 
 
 <p align="center">
