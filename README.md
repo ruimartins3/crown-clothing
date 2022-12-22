@@ -31,5 +31,5 @@
  
  <h3 align="center">Buying page</h3>
  
- ![f1a49e52e7676207ddc308601e61cd8d](https://user-images.githubusercontent.com/91401714/209159997-c841060c-07e7-4030-8b57-6365e4d9490c.png)
+![f49faf08a1465dbc16750782c1c76040](https://user-images.githubusercontent.com/91401714/209160341-8d4a50c6-7688-4b58-9537-50bd415a139c.png)
 
